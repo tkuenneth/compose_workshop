@@ -12,7 +12,7 @@ All slides and examples are published under the terms of the MIT license.
 
 ## Further reading
 
-### Android UI Development with Jetpack Compose Chapter
+### Complete chapters of *Android UI Development with Jetpack Compose*
 
 - [Chapter 2: Understanding the Declarative Paradigm](https://www.thomaskuenneth.eu/assets/B17505_Android%20UI%20Development%20with%20Jetpack%20Compose%20Chapter%202_Book.pdf)
 - [Chapter 4: Laying Out UI Elements](https://www.thomaskuenneth.eu/assets/B17505_Android%20UI%20Development%20with%20Jetpack%20Compose%20Chapter%204_Book.pdf)
