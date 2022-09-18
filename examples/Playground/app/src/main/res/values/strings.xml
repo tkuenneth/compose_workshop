@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Counter Demo Compose</string>
+    <string name="app_name">Playground</string>
+    <string name="item">Item #%1$d</string>
+    <string name="label">Label</string>
 </resources>
