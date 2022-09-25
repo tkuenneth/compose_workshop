@@ -20,5 +20,7 @@ All slides and examples are published under the terms of the MIT license.
 
 ### Useful resources
 
+- [Build better apps faster with Jetpack Compose](https://developer.android.com/jetpack/compose)
 - [Animations in Compose Cheat Sheet](https://storage.googleapis.com/android-stories/compose/Compose_Animation_Cheat_Sheet.pdf)
 - [List of Compose modifiers](https://developer.android.com/jetpack/compose/modifiers-list)
+- [AndroidX releases](https://developer.android.com/jetpack/androidx/versions)
