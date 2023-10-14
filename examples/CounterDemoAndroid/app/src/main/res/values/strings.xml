@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">CounterDemo Android</string>
+    <string name="button">Click</string>
+    <string name="not_clicked">Not clicked yet</string>
+</resources>

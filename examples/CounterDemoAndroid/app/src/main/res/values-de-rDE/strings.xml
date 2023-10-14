@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CounterDemo Android</string>
+    <string name="button">Klick</string>
+    <string name="not_clicked">Noch nicht geklickt</string>
+</resources>
