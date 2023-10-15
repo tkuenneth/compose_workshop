@@ -3,4 +3,18 @@
     <string name="red">red</string>
     <string name="green">green</string>
     <string name="blue">blue</string>
+    <string name="info">Info</string>
+    <string name="options_menu">Options menu</string>
+    <string name="toggle">Toggle</string>
+    <string name="hide">Hide</string>
+    <string name="show">Show</string>
+    <string name="letter_w">W</string>
+    <string name="letter_i">I</string>
+
+    <string-array name="menu_items">
+        <item>#1</item>
+        <item>#2</item>
+        <item>#3</item>
+    </string-array>
+
 </resources>
