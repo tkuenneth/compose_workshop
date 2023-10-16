@@ -5,7 +5,16 @@ This repo contains the slides and examples of my Jetpack Compose workshop. So fa
 - Rheinwerk KKON 2022
 - Rheinwerk KKON 2023
 
-To use the examples, do **not** open the base directory of the repository in Android Studio. All examples are separate projects, so, to use an example open the base directory of the example. For example, to look at *CounterDemoCompose* open *path-to-repo/examples/CounterDemoCompose*.
+To use the examples, do **not** open the base directory of the repository in Android Studio. All examples are separate projects, so, to use an example open the base directory of the example. For example, to look at *CounterDemoAndroid* open *path-to-repo/examples/CounterDemoAndroid*.
+
+The workshop includes a couple of exercises, which are built on top pf each other. They are based on the *ComposeWorkshop* project.
+
+- [00_initial_version](https://github.com/tkuenneth/compose_workshop/tree/00_initial_version)
+- [01_add_compose](https://github.com/tkuenneth/compose_workshop/tree/01_add_compose)
+- [02_counter_demo](https://github.com/tkuenneth/compose_workshop/tree/02_counter_demo)
+- [03_building_uis](https://github.com/tkuenneth/compose_workshop/tree/03_building_uis)
+- [04_advanced_topics](https://github.com/tkuenneth/compose_workshop/tree/04_advanced_topics)
+
 
 *License*
 
